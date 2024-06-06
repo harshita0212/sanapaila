@@ -32,5 +32,33 @@ Footer column: events, quick links, get in touch cto.
 Footer bottom: date and time
 
 
+About Us:
+content column:
+Our mission: Paragraph and an image
+
+Fluid section
+- buttons: take action and join volunteering
+
+- MAIN FOOTER SECTION
+
+Our Team:
+
+- main header
+- Mobile menu
+- Sticky header
+- Team section
+- Footer
+  
+Events:
+- main menu
+- Event page: event blocks
+- footer
+
+Contact us:
+- get in touch
+- Contact form
+- footer
+
+
 
 
