@@ -23,3 +23,14 @@ home
 main slider: image, heading and a paragraph
 Our Team: image
 Counter Section: Events, Team members, Experts, Location Covered
+
+Past Events: Image, Date and time, Event description
+
+Footer: logo, directs to the link of facebook and google
+Footer column: events, quick links, get in touch cto.
+
+Footer bottom: date and time
+
+
+
+
